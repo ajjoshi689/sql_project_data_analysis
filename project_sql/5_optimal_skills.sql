@@ -57,5 +57,5 @@ Here is a quick summary of the results for the query above
 - Skills like GO, Snowflake, and BigQuery have large salaries but low demand,
 these skills are more technical/engineering oriented skills
 - Cloud platforms like AWS, Azure, and Snowflake are associated with six figure salaries showcasing the demand for cloud skills in the field of data analytics
-- SQL, Python, and Tableau remain in high demand as most know skills
+- SQL, Python, and Tableau remain in high demand as must know skills
 */
